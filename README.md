@@ -1,4 +1,4 @@
-[![MasterHead](banner.png)](#)
+[![MasterHead](gifgit.gif)](#)
 <h1 align="center">Hi 👋, I'm Tobit Prince</h1>
 <h3 align="center">Aspiring Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/7838aa8ff491f0a0df869ce6dc792cd0/tumblr_p25jbnVsjZ1qdhps7o2_r2_540.gif">
