@@ -1,4 +1,4 @@
-[![MasterHead](https://img.wattpad.com/3a07216a695cb7759e5df033e6075b1a6d816ffd/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f4e4c52496733725a46525a6869773d3d2d3835383436353734302e3136303264373131386135626666313637313933393634393638392e676966)](#)
+[![MasterHead](https://media.tenor.com/2N3pkDuHUQoAAAAC/scarlet-witch-wanda.gif)](#)
 <h1 align="center">Hi 👋, I'm Tobit Prince</h1>
 <h3 align="center">Aspiring Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/7838aa8ff491f0a0df869ce6dc792cd0/tumblr_p25jbnVsjZ1qdhps7o2_r2_540.gif">
