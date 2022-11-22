@@ -1,7 +1,7 @@
 [![MasterHead](gifgit2.gif)](#)
 <h1 align="center">Hi 👋, I'm Tobit Prince</h1>
 <h3 align="center">Aspiring Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/7838aa8ff491f0a0df869ce6dc792cd0/tumblr_p25jbnVsjZ1qdhps7o2_r2_540.gif">
+<img align="right" alt="Coding" width="400" src="https://833250.smushcdn.com/1694534/wp-content/uploads/2022/01/iiqg1f9wg7981.jpeg?lossy=1&strip=1&webp=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chimi-pt&label=Profile%20views&color=0e75b6&style=flat" alt="chimi-pt" /> </p>
 
