@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tobitprince" target="blank"><img src="https://img.shields.io/twitter/follow/tobitprince?logo=twitter&style=for-the-badge" alt="tobitprince" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **princekiptoo@gmail.com**
 
